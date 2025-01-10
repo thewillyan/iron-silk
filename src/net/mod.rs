@@ -1,3 +1,3 @@
-mod message;
 mod node;
 mod protocol;
+mod server;
